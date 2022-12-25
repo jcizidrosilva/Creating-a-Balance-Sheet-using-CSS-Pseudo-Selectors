@@ -17,8 +17,13 @@ html {
 }
 
 body {
+    background-image: url(https://img.freepik.com/premium-photo/white-luxury-fabric-background-with-copy-space_46250-2192.jpg?w=2000);
+    background-size: cover;
+    background-repeat: no-repeat;
+
     font-family: sans-serif;
     color: #0a0a23;
+
 }
 
 h1 {
